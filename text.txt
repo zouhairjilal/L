@@ -1,1 +1,26 @@
-1_ A text file
+
+========================================
+ ESP32-S3 Pocket Dongle – Text Viewer
+========================================
+[Storage] FFat mount + format failed
+[Main] FATAL: storage init failed
+[Main] Display init...
+[Display] init  w=128 h=32  charW=6 charH=8  charsPerLine=21  linesOnScreen=4
+[Storage] No cached file at /text.txt
+[Main] Calibrating touch sensors...
+[Main] Touch calibrated – UP baseline: 19093, DOWN baseline: 16751 (delta: 10000)
+[WiFi] Connecting to "La_Fibre_dOrange_B722" …
+[Main] setup() complete
+[WiFi] Status changed: 6
+[WiFi] Status changed: 0
+[Main] Update tick
+[Main] Update skipped – no Wi-Fi
+[WiFi] Status changed: 3
+[Main] Update tick
+[Downloader] GET https://raw.githubusercontent.com/zouhairjilal/L/refs/heads/main/text.txt
+[Downloader] Content-Length: 15
+[Downloader] Fetched 15 bytes
+[Main] New content (15 bytes) – updating cache + display
+[Storage] Cannot open temp file for write
+[Display] text changed (15 bytes) – re-wrapping
+[Display] wrap: 2 virtual lines  charsPerLine=21
