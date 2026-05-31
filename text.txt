@@ -1,5 +1,2 @@
  ESP32-S3 Pocket Dongle – Text Viewer
 
-[Storage] FFat mount + format failed
-[Main] FATAL: storage init failed
-[Main] Display init...
