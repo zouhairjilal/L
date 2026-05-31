@@ -1,1 +1,20 @@
-walo
+[I] Etude de texte 
+[1] 
+titre: blabla, 
+Auteur: blabla,
+Genre: blabla
+
+[2][a] antigone
+[2][b] parce que ...
+
+[3]
+- vrai
+- vrai 
+- faux
+- faux
+
+[4] le garde a vite accepte la demonde.
+
+[5] antigone pense tell quell ne va plus etre aimee
+
+[6] oh hemon notre petite garcon
