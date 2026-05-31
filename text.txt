@@ -1,4 +1,3 @@
-16:23:18.502 -> [Downloader] GET https://raw.githubusercontent.com/zouhairjilal/L/refs/heads/main/text.txt
-16:23:18.889 -> [Downloader] Content-Length: 135
-16:23:18.889 -> [Downloader] Fetched 135 bytes
-16:23:18.889 -> [Main] Content unchanged – no redraw
+[Downloader] Content-Length: 135
+[Downloader] Fetched 135 bytes
+[Main] Content unchanged – no redraw
